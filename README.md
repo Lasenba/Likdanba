@@ -1,1 +1,3 @@
 # Likdanba
+harebi
+ymna
